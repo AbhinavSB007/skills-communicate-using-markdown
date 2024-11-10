@@ -4,4 +4,8 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
+## Image of Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 Added some text to index.md file
